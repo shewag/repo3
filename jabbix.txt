@@ -1,0 +1,1 @@
+jabbix is montering tool which is used before splunk
